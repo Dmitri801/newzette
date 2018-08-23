@@ -1,0 +1,31 @@
+{
+  "name": "newzette",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "@zeit/next-sass": "^0.2.0",
+    "body-parser": "^1.18.3",
+    "express": "^4.16.3",
+    "isomorphic-unfetch": "^2.1.1",
+    "jquery": "^3.3.1",
+    "next": "^6.1.1",
+    "next-redux-wrapper": "^2.0.0",
+    "node-sass": "^4.9.2",
+    "react": "^16.4.2",
+    "react-dom": "^16.4.2",
+    "react-redux": "^5.0.7",
+    "react-spring": "^5.6.7",
+    "redux": "^4.0.0",
+    "redux-thunk": "^2.3.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "dev": "node server.js",
+    "build": "next build",
+    "start": "NODE_ENV=production node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
