@@ -18,4 +18,4 @@ npm install
 yarn run dev
 ```
 
-# Developed By - Dmitri Sharshiner
+# Developed By - Dmitriy Sharshiner
