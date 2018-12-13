@@ -1,6 +1,7 @@
 # Newzette
 
 Newzette is a single page app that lets you search the news on the day
+https://newzette.now.sh/
 
 ## Getting Started
 
